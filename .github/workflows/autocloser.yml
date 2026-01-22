@@ -1,4 +1,4 @@
-ame: Autocloser
+name: Autocloser
 on: [issues]
 jobs:
   autoclose:
